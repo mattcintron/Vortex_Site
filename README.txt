@@ -1,7 +1,7 @@
 The full github pages site for the new Steam Game Vortex -
 
 Link to live site -
-
+https://mattcintron.github.io/Vortex_Site/
 
 
 CREDITS-
